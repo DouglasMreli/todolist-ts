@@ -1,0 +1,17 @@
+* {
+    background-color: #F2EFDF;
+}
+
+.toggleMode {
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: #798C8C;
+}
+
+.toggleMode:hover {
+    cursor: pointer;
+    background-color: #AEBFBE;
+}
+
